@@ -1,0 +1,12 @@
+{
+    "name": "bugra/cms",
+    "authors": [
+        {
+            "name": "Muhammed Bugra Ates",
+            "email": "mbugrates4@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
